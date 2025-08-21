@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 st.set_page_config(layout="wide", page_title="Dashboard Reclamos 2023-2025")
 
 st.title("📊 Dashboard Reclamos (2023-2025) - Sociedad Eléctrica del Sur Oeste S.A")
-
+st.write("Provincias del departamento de Arequipa")
 # =====================
 # 1. Cargar Dataset desde URL
 # =====================
